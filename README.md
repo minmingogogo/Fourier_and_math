@@ -22,8 +22,7 @@
 
 
 ## 变量与信号
-![image]https://github.com/minmingogogo/img/blob/master/fuliyea01.jpg
-
+![fourier]https://github.com/minmingogogo/img/blob/master/fuliyea01.jpg
 通过上图要达成一些共识：
 一切皆信号，一切处理皆信号处理，一切皆是信号与系统
 
